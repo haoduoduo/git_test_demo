@@ -1,2 +1,3 @@
 haoduoduo de git test
-hallo! git! haoduoduo xiugai le! 
+hallo! git! haoduoduo xiugai le!
+hot-fix !!!!!!!
